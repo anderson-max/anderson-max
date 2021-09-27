@@ -1,14 +1,14 @@
 ### Olá! Eu sou o Anderson Santana
 
-- 🔭 Conhecimento com Beck-end 
+- 🔭 Conhecimento em Beck-end 
 - 🌱 Estudando Análise Desenvolvimento de Sistemas
 - 👯 Procuro por trabalho volutário e ou estágio
 - ❤️ Atualmente estudando Salesforce
 
 <div align="center">
   <a href="https://github.com/anderson-max">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-max&theme=blue-green"
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anderson-max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-max&theme=blue-green"
 </div>
 
   <div style="display: inline_block"><br>
