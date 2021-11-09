@@ -3,7 +3,7 @@
 - 🔭 Conhecimento em Beck-end 
 - 🌱 Estudando Análise Desenvolvimento de Sistemas
 - 👯 Procuro por trabalho e estágio
-- ❤️ Atualmente estudando e atuando como voluntário
+- ❤️ Atualmente estudando e atuando como voluntário.
 
 <div align="center">
   <a href="https://github.com/anderson-max">
