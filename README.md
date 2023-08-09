@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Anderson Santana
 
 - 🔭 Conhecimento em Beck-end 
-- 🌱 Estudando Análise Desenvolvimento de Sistemas
+- 🌱 Estudando Gestão da Tecnologia da Informação
 - 👯 Procuro por trabalho e estágio
-- ❤️ Atualmente estudando Salesforce na Soulcode Academy.
+- ❤️ Atualmente estudando Projetos de Sistemas de TI.
 
 <div align="center">
   <a href="https://github.com/anderson-max">
