@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Anderson Santana
 
-- 🔭 Conhecimento em Beck-end 
+- 🔭 Conhecimento em front-end 
 - 🌱 Estudando Gestão da Tecnologia da Informação
 - 👯 Procuro por trabalho e estágio
-- ❤️ Atualmente estudando Projetos de Sistemas de TI.
+- ❤️ Atualmente estudando Gestão de TI.
 
 <div align="center">
   <a href="https://github.com/anderson-max">
