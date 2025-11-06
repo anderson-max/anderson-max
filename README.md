@@ -2,8 +2,7 @@
 
 - 🔭 Conhecimento em front-end 
 - 🌱 Estudando Gestão da Tecnologia da Informação
-- 👯 Procuro por trabalho e estágio
-- ❤️ Atualmente estudando Gestão de TI.
+- ❤️ Atuando como front-end  e Gerenciamento de Projeto.
 
 <div align="center">
   <a href="https://github.com/anderson-max">
